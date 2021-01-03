@@ -1,0 +1,58 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 31 Dec 2020 20:47:31 at http://ncg.macmar.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ncg.macmar.co/ -O1 "D:\src\NeverClog\Never Clog" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:50:57	Error: 	"Method Not Allowed" (405) at link ncg.macmar.co/xmlrpc.php (from ncg.macmar.co/)
+21:46:55	Warning: 	Moved Permanently for ncg.macmar.co/?p=1321
+21:46:55	Warning: 	File has moved from ncg.macmar.co/?p=1321 to http://ncg.macmar.co/about/
+21:46:55	Warning: 	Moved Permanently for ncg.macmar.co/?p=1446
+21:46:55	Warning: 	File has moved from ncg.macmar.co/?p=1446 to http://ncg.macmar.co/gutter-guards/
+21:46:55	Warning: 	Moved Permanently for ncg.macmar.co/?p=1444
+21:46:55	Warning: 	File has moved from ncg.macmar.co/?p=1444 to http://ncg.macmar.co/gutter-cleaning/
+21:46:55	Warning: 	Moved Permanently for ncg.macmar.co/?p=15
+21:46:55	Warning: 	File has moved from ncg.macmar.co/?p=15 to http://ncg.macmar.co/contact/
+21:46:56	Warning: 	HTML file (105372 bytes) retransferred due to lack of cache: ncg.macmar.co/wp-json/
+21:46:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.0.14
+21:47:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.6.2
+21:47:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-includes/js/wp-embed.min.js?ver=5.6
+21:47:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+21:47:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+21:47:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.14
+21:47:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.8
+21:47:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.8
+21:47:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+21:47:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+21:47:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+21:47:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.14
+21:47:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.14
+21:47:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-includes/js/underscore.min.js?ver=1.8.3
+21:47:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+21:47:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-includes/js/wp-util.min.js?ver=5.6
+21:47:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.4
+21:47:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.0
+21:47:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2
+21:47:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): ncg.macmar.co/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.6.4
+21:48:54	Error: 	"Method Not Allowed" (405) at link ncg.macmar.co/xmlrpc.php (from ncg.macmar.co/)
+21:48:55	Warning: 	HTML file (757 bytes) retransferred due to lack of cache: ncg.macmar.co/?p=1321
+21:48:56	Warning: 	Moved Permanently for ncg.macmar.co/?p=1321
+21:48:56	Warning: 	File has moved from ncg.macmar.co/?p=1321 to http://ncg.macmar.co/about/
+21:49:01	Warning: 	HTML file (773 bytes) retransferred due to lack of cache: ncg.macmar.co/?p=1446
+21:49:02	Warning: 	Moved Permanently for ncg.macmar.co/?p=1446
+21:49:02	Warning: 	File has moved from ncg.macmar.co/?p=1446 to http://ncg.macmar.co/gutter-guards/
+21:49:02	Warning: 	HTML file (777 bytes) retransferred due to lack of cache: ncg.macmar.co/?p=1444
+21:49:03	Warning: 	Moved Permanently for ncg.macmar.co/?p=1444
+21:49:03	Warning: 	File has moved from ncg.macmar.co/?p=1444 to http://ncg.macmar.co/gutter-cleaning/
+21:49:19	Warning: 	HTML file (757 bytes) retransferred due to lack of cache: ncg.macmar.co/?p=15
+21:49:20	Warning: 	Moved Permanently for ncg.macmar.co/?p=15
+21:49:20	Warning: 	File has moved from ncg.macmar.co/?p=15 to http://ncg.macmar.co/contact/
+21:49:20	Warning: 	Retry after error -4 (No data (connection closed)) at link ncg.macmar.co/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf (from ncg.macmar.co/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.0.14)
+21:49:42	Warning: 	Retry after error -4 (No data (connection closed)) at link ncg.macmar.co/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg (from ncg.macmar.co/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.0.14)
+21:49:54	Warning: 	Retry after error -4 (No data (connection closed)) at link ncg.macmar.co/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot (from ncg.macmar.co/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.0.14)
+21:50:00	Warning: 	Retry after error -4 (No data (connection closed)) at link ncg.macmar.co/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff (from ncg.macmar.co/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.0.14)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 3 minutes 49 seconds : 131 links scanned, 167 files written (135972688 bytes overall) [94899697 bytes received at 24784 bytes/sec], 5083433 bytes transferred using HTTP compression in 94 files, ratio 29%, 2.7 requests per connection
+(2 errors, 45 warnings, 0 messages)
